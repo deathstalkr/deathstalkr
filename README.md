@@ -15,7 +15,7 @@ Hello, I'm Solomon Johnson, a Systems Engineer and AI/ML Developer by profession
 
 - 🌍 I'm based in Banglore, Karnataka
 - ✉️ You can contact me at [solomon.johnson098@gmail.com](mailto:solomon.johnson098@gmail.com)
-- 🤝 I'm open to collaborating on **Python**, **Javasscript** and **React** projects.
+- 🤝 I'm open to collaborating on **Python**, **Javascript** and **React** projects.
 
 [![](https://komarev.com/ghpvc/?username=deathstalkr)](https://komarev.com/ghpvc/?username=deathstalkr)
 
