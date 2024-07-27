@@ -11,7 +11,7 @@
 
 ### Systems Engineer and AI/ML Developer
 
-Hello, I'm Solomon Johnson, a Systems Engineer and AI/ML Developer by profession based in India. With over **3 years and 5 months** of professional experience, I have worked on many projects using Python, Javascript and other languages.
+Hello, I'm Solomon Johnson, a Systems Engineer and AI/ML Developer by profession based in India. With over {{EXPERIENCE}} of professional experience, I have worked on many projects using Python, Javascript and other languages.
 
 - 🌍 I'm based in Banglore, Karnataka
 - ✉️ You can contact me at [solomon.johnson098@gmail.com](mailto:solomon.johnson098@gmail.com)
@@ -19,9 +19,8 @@ Hello, I'm Solomon Johnson, a Systems Engineer and AI/ML Developer by profession
 
 [![](https://komarev.com/ghpvc/?username=deathstalkr)](https://komarev.com/ghpvc/?username=deathstalkr)
 
-# Skills 💪🏻
-
-<p align="left">
+<h1 align="left">Skills 💪🏻</h1>
+<p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -36,15 +35,16 @@ Hello, I'm Solomon Johnson, a Systems Engineer and AI/ML Developer by profession
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 </p>
 
-# Socials 🤳🏻
+<h1 align="left">Socials 🤳🏻</h1>
 
-<p align="left">
-<a href="https://codepen.io/deathstalkr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/deathstalkr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/solomon-johnson/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<p align="center">
+<a href="https://codepen.io/deathstalkr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" alt="Codepen"/></a>
+<a href="https://discord.com/users/676835766709518386" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord"/></a>
+<a href="https://www.linkedin.com/in/solomon-johnson/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="Linkedin"/></a>
+<a href="https://x.com/deathstalkr_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter"/></a>
 </p>
 
-# 📊 GitHub Stats :
+<h1 align="left">📊 GitHub Stats :</h1>
 
 ![deathstalkr's GitHub stats](https://github-readme-stats.vercel.app/api?username=deathstalkr&show_icons=true&theme=transparent)<br/>
 ![deathstalkr's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=deathstalkr&theme=transparent&hide_border=true)<br/>
