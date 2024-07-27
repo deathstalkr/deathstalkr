@@ -1,0 +1,32 @@
+name: Update README with Experience
+
+on:
+  schedule:
+    - cron: '0 0 5 * *'  # Runs at 12:00 AM, on day 5 of the month
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Run update script
+      run: python update_readme.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'deathstalkr'
+        git config --global user.email 'solomon.johnson098@gmail.com'
+        git add README.md
+        git commit -m "Update README with current experience"
+        git push
