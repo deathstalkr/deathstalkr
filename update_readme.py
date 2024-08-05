@@ -22,7 +22,9 @@ with open("README.md", "r") as file:
 if placeholder in readme:
     updated_readme = readme.replace(placeholder, experience)
 else:
-    updated_readme = readme.replace(experience, experience)
+    import re
+    # This regex finds the old experience string in the format "X years and Y months"
+    updated_readme = re.sub(r'\d+ years and \d+ months', experience, readme)
 
 # Write the updated README back to the file
 with open("README.md", "w") as file:
