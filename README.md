@@ -11,7 +11,7 @@
 
 ### Systems Engineer and AI/ML Developer
 
-Hello, I'm Solomon Johnson, a Systems Engineer and AI/ML Developer by profession based in India. With over 4 years and 6 months of professional experience, I have worked on many projects using Python, Javascript and other languages.
+Hello, I'm Solomon Johnson, a Systems Engineer and AI/ML Developer by profession based in India. With over 4 years and 7 months of professional experience, I have worked on many projects using Python, Javascript and other languages.
 
 - 🌍 I'm based in Banglore, Karnataka
 - ✉️ You can contact me at [solomon.johnson098@gmail.com](mailto:solomon.johnson098@gmail.com)
